@@ -1,0 +1,28 @@
+{
+  "env": {
+    "FRAMEWORK_PROVIDER": "rest",
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "https://pickbazarapi.redq.io",
+    "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "https://pickbazarapi.redq.io/graphql",
+    "NEXT_PUBLIC_SITE_URL": "https://shop-pickbazar.vercel.app",
+    "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "pk_test_51If2QLBEtYX3PXpB9yA4F3gYnzvtZOIaF26aOZUDNzirh4rLplsjJIGz9MfiNh4nRVSD2SC8quz9vgNqrW1SzIqt00nVlKWnOQ",
+    "NEXTAUTH_URL": "https://shop-pickbazar.vercel.app/",
+    "SECRET": "c8245e4a46c398b6e2241a8070e10b71",
+    "GOOGLE_CLIENT_ID": "131043867871-nc3nff7qtu4lkrlhb6hi6rfcud53m2f2.apps.googleusercontent.com",
+    "GOOGLE_CLIENT_SECRET": "GLuPrBZY9JunOIkbbbQ96lLw",
+    "NEXT_PUBLIC_ADMIN_URL": "https://admin-pickbazar.vercel.app"
+  },
+  "build": {
+    "env": {
+      "FRAMEWORK_PROVIDER": "rest",
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://pickbazarapi.redq.io",
+      "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "https://pickbazarapi.redq.io/graphql",
+      "NEXT_PUBLIC_SITE_URL": "https://shop-pickbazar.vercel.app",
+      "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "pk_test_51If2QLBEtYX3PXpB9yA4F3gYnzvtZOIaF26aOZUDNzirh4rLplsjJIGz9MfiNh4nRVSD2SC8quz9vgNqrW1SzIqt00nVlKWnOQ",
+      "NEXTAUTH_URL": "https://shop-pickbazar.vercel.app/",
+      "SECRET": "c8245e4a46c398b6e2241a8070e10b71",
+      "GOOGLE_CLIENT_ID": "131043867871-nc3nff7qtu4lkrlhb6hi6rfcud53m2f2.apps.googleusercontent.com",
+      "GOOGLE_CLIENT_SECRET": "GLuPrBZY9JunOIkbbbQ96lLw",
+      "NEXT_PUBLIC_ADMIN_URL": "https://admin-pickbazar.vercel.app"
+    }
+  }
+}
